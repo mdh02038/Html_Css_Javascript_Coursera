@@ -1,0 +1,19 @@
+.navbar {
+    background-color: lightblue;
+}
+
+#item {
+    background-color: lightgrey;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-nav > li {
+	background-color: #12BCE6
+}
+
+#item-name {
+    font-size: 1.5em;
+}
+
