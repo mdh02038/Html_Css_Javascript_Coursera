@@ -1,19 +1,24 @@
+* {
+    box-sizing: border-box;
+}
 .navbar {
     background-color: lightblue;
 }
 
-#item {
+#item, .item {
     background-color: lightgrey;
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .navbar-nav > li {
 	background-color: #12BCE6
 }
 
-#item-name {
+#chicken, #beef, #sushi {
     font-size: 1.5em;
 }
 
